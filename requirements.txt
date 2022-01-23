@@ -32,4 +32,3 @@ threadpoolctl==3.0.0
 tomli==1.2.2
 Werkzeug==2.0.2
 xgboost==1.5.2
-tkinter
